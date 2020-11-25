@@ -1,0 +1,9 @@
+.article_block_city{
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.67)), url(_imagens/bhbg.jpg);
+}
+
+
+.article_block_love{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.94)), url(_imagens/bg_gi.jpg);
+    background-position: top;
+}

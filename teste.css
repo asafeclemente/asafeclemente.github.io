@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+ul,ol,li{
+    list-style: none;
+}
+
+.btn-custom{
+    padding: 1px 15px 3px 2 px;
+    border-radius: 50px;
+}
+.btn-icon{
+    padding: 8px;
+    background: #000000;
+}
+
+header{
+    background-color: #293241;
+    color: #eff3ff;
+}
+
+#footer_direita{
+    float: right;
+}
+
+#section_body{
+    min-height: 900px;
+    background-color: gray;
+}
+
+footer{
+    background-color: #1e2531;
+    height: 80px;
+    clear: both;
+}
+
+#texto-bem-vindo{
+    font-size: 40px;
+    padding-left: 32px;
+}
+
+.bg-dark{
+    background-image: url(_imagens/fundobarnav.jpg);
+    background-size: 100%;
+}
+
+.navbar-brand{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.my_city{
+    height: 100vh;
+    background-color: tomato;
+    background-image: url(_imagens/bhbg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.imagens_bh{
+    display: block;
+    width: 20%;
+    max-height: 100px;
+}
+
+.imagem_bh1{
+background-color: red;
+}
+.imagem_bh2{
+background-color: royalblue;
+}
+.imagem_bh3{
+background-color: sandybrown;
+}
+.imagem_bh4{
+background-color: yellowgreen;
+}
+
+.imagens_bh::after{
+    content: 'akfjanfaj';
+    display: inline-block;
+    width: 100%;
+    background-color: red;
+}
+
+.bloco1{
+    position: relative;
+    top: 10%;
+    transform: translateY(-10%);   
+}

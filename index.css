@@ -1,0 +1,27 @@
+.article_1{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.80)), url(_imagens/eu_bg.jpg);
+    background-position: top;
+    height: calc(100vh - 136px);
+    max-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;   
+
+}
+
+
+
+.texto_home{
+    font-family: 'Oswald',sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 3vw;
+    text-align: left;
+    position: relative;
+    padding-left: 5%;
+
+}
+.bloco2{
+    width: 50%;
+}
