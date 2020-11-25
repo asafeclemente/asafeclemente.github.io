@@ -1,5 +1,5 @@
 .article_1{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.80)), url(_imagens/eu_bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.80)), url(imagens/eu_bg.jpg);
     background-position: top;
     height: calc(100vh - 136px);
     max-height: 100%;
